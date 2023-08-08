@@ -3,7 +3,9 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-import '../../model/PostModel.dart';
+import 'model/PostModel.dart';
+
+
 
 class Home extends StatefulWidget {
   const Home({super.key});
