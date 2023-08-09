@@ -7,6 +7,7 @@ import 'package:rest_api/src/screen/example_two/example_two.dart';
 import 'package:rest_api/src/screen/home/home.dart';
 import 'package:rest_api/src/screen/login/login.dart';
 import 'package:rest_api/src/screen/signup/signup.dart';
+import 'package:rest_api/src/screen/upload_image/upload_image.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +26,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: Login()
+      home: UploadImage()
+      //Login()
       //SignUp()
       //ExampleFive()
       //ExamoleFour()
