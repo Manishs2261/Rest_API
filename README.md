@@ -1,4 +1,12 @@
 # rest_api
+login - 
+"email": "eve.holt@reqres.in",
+"password": "cityslicka"
+
+Register -
+    "email": "eve.holt@reqres.in", 
+    "password": "pistol"
+
 
 A new Flutter project.
 
