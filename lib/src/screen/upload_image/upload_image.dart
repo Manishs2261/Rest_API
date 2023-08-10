@@ -117,7 +117,7 @@ class _UploadImageState extends State<UploadImage> {
                 child: Container(
                   height: 50,
                     color: Colors.greenAccent,
-                  child: Center(child: Text('Upload')),
+                  child: Center(child: Text('Uploaad')),
                 ),
               )
 
